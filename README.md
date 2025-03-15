@@ -60,7 +60,7 @@ Contoh: "madam" → palindrome
 
 Petunjuk
 
-Gunakan bahasa pemrograman pilihan Anda (misalnya, C++, Python, Java, dsb.).
+Gunakan bahasa pemrograman menggunakan typescript atau javascript
 
 Pastikan untuk menangani berbagai kemungkinan input dengan baik.
 
